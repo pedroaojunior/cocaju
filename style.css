@@ -266,7 +266,7 @@ footer {
 
 @media screen and (max-width: 768px) {
  header {
-    display: flex;
+    display: none;
   }  
    .nav-links {
     display: inline;
