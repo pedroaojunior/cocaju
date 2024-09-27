@@ -92,15 +92,16 @@ nav {
 }
 
 .hero h1 {
-  font-size: 2.2rem; 
-  margin-bottom: 2.5rem;
-  line-height: 0,6;
+  font-size: 2.2rem;
+  margin-bottom: 1.0rem;
+  line-height: 1;
+  
 }
 
 .hero p {
   font-size: 1.1rem;
-  margin-bottom: 1.5rem;
-  line-height: 0;
+  margin-bottom: 1.2rem;
+  line-height: 0.5;
 }
 
 .cta-button {
