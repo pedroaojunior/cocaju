@@ -18,4 +18,4 @@ Este projeto web tem como objetivo apresentar a Cajucoco Soluções Agroindustri
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://[seu_repositorio]/cajucoco.git
+   git clone https://pedroajuniro/cocaju/cajucoco.git
