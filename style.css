@@ -92,14 +92,14 @@ nav {
 }
 
 .hero h1 {
-  font-size: 2.5rem;
+  font-size: 2.5rem; 
   margin-bottom: 1rem;
   line-height: 1;
 }
 
 .hero p {
-  font-size: 1.2rem;
-  margin-bottom: 2rem;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
   line-height: 0;
 }
 
