@@ -269,7 +269,7 @@ footer {
     display: flex;
   }  
    .nav-links {
-    display: block;
+    display: inline;
   }
 
   .hero h1 {
