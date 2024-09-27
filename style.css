@@ -265,12 +265,13 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  .nav-links {
+ header {
+    display: flex;
+  }  
+   .nav-links {
     display: flex;
   }
- header {
-    display: none;
-  }
+
   .hero h1 {
     font-size: 2.5rem;
   }
