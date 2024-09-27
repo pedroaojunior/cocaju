@@ -101,7 +101,7 @@ nav {
 .hero p {
   font-size: 1.1rem;
   margin-bottom: 1.2rem;
-  line-height: 0.9;
+  line-height: 1;
 }
 
 .cta-button {
